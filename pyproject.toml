@@ -1,5 +1,5 @@
 [project]
-name = "world_builder"
+name = "world-builder"
 version = "0.1.0"
 description = "CLI tool for organizing world-building info"
 readme = "README.md"

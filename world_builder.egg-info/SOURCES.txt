@@ -1,5 +1,8 @@
 README.md
 pyproject.toml
+tests/test_smoke.py
+world_builder/cli.py
+world_builder/init.py
 world_builder.egg-info/PKG-INFO
 world_builder.egg-info/SOURCES.txt
 world_builder.egg-info/dependency_links.txt
