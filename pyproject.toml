@@ -1,0 +1,16 @@
+[project]
+name = "world_builder"
+version = "0.1.0"
+description = "CLI tool for organizing world-building info"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.scripts]
+world-builder = "world_builder.cli:main"
+
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "I"]

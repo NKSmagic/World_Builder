@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: world_builder
+Version: 0.1.0
+Summary: CLI tool for organizing world-building info
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# World Builder
+
+Quick CLI to manage world-building notes.
+
+## Dev
+
+- Activate venv:
+  - `source .venv/bin/activate`
+- Run:
+  - `python -m world_builder.cli`
+  - or after editable install: `world-builder`
+- Format/lint:
+  - `black . && ruff .`
+- Test:
+  - `pytest -q`
