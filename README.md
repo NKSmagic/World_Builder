@@ -24,9 +24,9 @@ Quick CLI to manage world-building notes.
   - Lines 3+: Free-form notes
 
 Example: 
-  Kingdom
-  Edoras
-  Prosperous realm with ancient oaths.
+- Kingdom
+- Edoras
+- Prosperous realm with ancient oaths.
 
 
 ## Commands
